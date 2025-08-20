@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 )
-// test
+// test1
 // 方法1：使用 time.After 实现定时停止
 func stopAfterDuration(duration time.Duration) {
 	fmt.Printf("程序将在 %v 后自动停止...\n", duration)
